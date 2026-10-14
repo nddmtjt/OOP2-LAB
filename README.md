@@ -1,4 +1,4 @@
-# OOP2 Object Oriented Programming 2
+# OOP2 - Object Oriented Programming 2
 
 This repository contains weekly lab assignments and practice exercises for the Object-Oriented Programming 2 (OOP2) course.
 
