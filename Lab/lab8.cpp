@@ -112,5 +112,8 @@ int main() {
     cout << fixed << setprecision(2);
     cout << "bubble with the largest volume: " << arr[max_i]->toString() << ", V=" << arr[max_i]->getVolume();
 
+    for (int j{0}; j<i; j++) {
+        delete arr[j];
+    }
     return 0;
 }
